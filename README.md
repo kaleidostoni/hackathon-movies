@@ -1,6 +1,9 @@
-# Hackathon Entertainment
+# Gify Cinema
+Proyecto de crítica de cine usando api GIPHY y OMDB para la busqueda de películas 
 
-Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el entretenimiento y crearemos soluciones/productos utilizando un API.
+
+![hackaton-movies1](https://user-images.githubusercontent.com/32855070/38577205-dedab572-3cc5-11e8-8ce1-e61831dcc1a1.png)
+
 
 
 ## Reglas generales:
