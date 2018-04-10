@@ -1,38 +1,10 @@
 # Gify Cinema
-Proyecto de crítica de cine usando api GIPHY y OMDB para la busqueda de películas 
 
 
 ![hackaton-movies1](https://user-images.githubusercontent.com/32855070/38577205-dedab572-3cc5-11e8-8ce1-e61831dcc1a1.png)
 
-
-
-## Reglas generales:
-
-* El trabajo es en squads de 4-5 personas
-* Duración: 4 turnos en la sala de clases y todo el tiempo adicional que quieran/puedan trabajar.
-* Presentaciones:
-  Habrán dos. Una el segundo día, mostrando avances, y otra al final mostrando el producto final
-  La pauta para las presentaciones es la siguiente:
-  Sé breve y anda directo al punto que quieres discutir.
-  Piensa en que le hablas a un cliente, no a otra estudiante o un(a) profesor(a).
-  Que lo que muestres hable por sí mismo, habla más acerca de tu proceso, de los ¿Por qué? que de los ¿Qué?
-  Sé explícita, enfócate en lo que está terminado y en lo que está pendiente o en progreso.
-  Deja tiempo para preguntas y respuestas.
-
-
-#### Recomendaciones:
-* Google y el contenido en el LMS son tus mejores amigos, úsalos.
-* Empieza el día de trabajo con un daily y termínalo con una retrospectiva
-* Utiliza todos los conocimientos/habilidades que has adquirido en tu tiempo en Laboratoria
-* Trata todo el tiempo de tomar tiempo a todas las actividades (timeboxed).
-* No presentes tu solución final en localhost. Comparte un link.
-* Organícense sobre cómo trabajarán en GIT.
-* Prefiere siempre pocas cosas funcionando OK que muchas “a medias”.
-
-***
-
-# GiffyMovies
 ## Propuesta
+Proyecto de crítica de cine usando api GIPHY y OMDB para la busqueda de películas 
 Crear un sitio web donde los hispanohablantes puedan compartir reseñas de peliculas sin pretensiones, de manera intuitiva y amigable.
 
 #### Pain Points
