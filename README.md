@@ -3,8 +3,11 @@
 
 ![hackaton-movies1](https://user-images.githubusercontent.com/32855070/38577205-dedab572-3cc5-11e8-8ce1-e61831dcc1a1.png)
 
+![hackaton-movies3](https://user-images.githubusercontent.com/32855070/38577547-e158ee76-3cc6-11e8-9fbc-9a5c9d842650.png)
+
+
 ## Propuesta
-Proyecto de crítica de cine usando api GIPHY y OMDB para la busqueda de películas 
+Proyecto de crítica de cine usando api GIPHY y OMDB para la busqueda de películas git 
 Crear un sitio web donde los hispanohablantes puedan compartir reseñas de peliculas sin pretensiones, de manera intuitiva y amigable.
 
 #### Pain Points
